@@ -12,7 +12,7 @@ A modern, responsive restaurant website developed to provide customers with an e
 
 ## 📂 GitHub Repository
 
-(https://github.com/pranithrao24/FUTURE_FS_03)
+[(https://github.com/pranithrao24/FUTURE_FS_03)](https://github.com/pranithrao24/FUTURE_FS_03)
 
 ---
 
