@@ -6,7 +6,7 @@ A modern, responsive restaurant website developed to provide customers with an e
 
 ## 🚀 Live Demo
 
-future-fs-03-one-orcin.vercel.app
+(future-fs-03-one-orcin.vercel.app)
 
 ---
 
