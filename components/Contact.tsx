@@ -9,12 +9,12 @@ const contactDetails = [
   {
     icon: Phone,
     title: "Phone",
-    value: "+91 98765 43210",
+    value: "+91 7330935912",
   },
   {
     icon: Mail,
     title: "Email",
-    value: "royalspice@example.com",
+    value: "pusukuripraneethrao02@gmail.com",
   },
   {
     icon: Clock,
@@ -61,18 +61,6 @@ export default function Contact() {
               </article>
             );
           })}
-        </div>
-
-        <div className="mt-12 overflow-hidden rounded-[2rem] border border-[#d8c9aa] bg-white p-2 shadow-xl">
-          <iframe
-            src="https://www.google.com/maps?q=Hanamkonda,Warangal,Telangana&output=embed"
-            width="100%"
-            height="450"
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Royal Spice Restaurant Location"
-            className="rounded-[1.6rem] border-0"
-          />
         </div>
       </div>
     </section>

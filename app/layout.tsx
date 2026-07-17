@@ -13,16 +13,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Royal Spice Restaurant | Authentic Indian Cuisine",
+  title: "Royal Spice | Premium Indian Restaurant",
   description:
-    "Royal Spice Restaurant offers authentic Indian cuisine, luxury dining, online reservations, and premium hospitality.",
+    "Experience authentic Indian cuisine at Royal Spice. Book your table online and enjoy delicious food with premium hospitality.",
   keywords: [
     "Restaurant",
     "Indian Food",
     "Royal Spice",
     "Biryani",
+    "Butter Chicken",
     "Warangal Restaurant",
-    "Fine Dining",
   ],
 };
 

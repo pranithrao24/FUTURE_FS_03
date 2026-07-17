@@ -9,6 +9,7 @@ import Reservation from "@/components/Reservation";
 import ScrollTop from "@/components/ScrollTop";
 import Testimonials from "@/components/Testimonials";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import FloatingButtons from "@/components/FloatingButtons";
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
       <Footer />
       <WhatsAppButton />
       <ScrollTop />
+      <FloatingButtons />
     </main>
   );
 }
