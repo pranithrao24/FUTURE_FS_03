@@ -6,7 +6,7 @@ A modern, responsive restaurant website developed to provide customers with an e
 
 ## 🚀 Live Demo
 
-🔗 Add your Vercel URL here
+future-fs-03-one-orcin.vercel.app
 
 ---
 
@@ -69,17 +69,6 @@ styles/
 
 ---
 
-# 📸 Website Sections
-
-- Home
-- About
-- Menu
-- Gallery
-- Reservation
-- Contact
-- Footer
-
----
 
 # 🎯 Business Benefits
 
