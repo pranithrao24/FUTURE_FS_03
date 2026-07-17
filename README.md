@@ -1,36 +1,166 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍽️ Royal Spice – Restaurant Website
 
-## Getting Started
+A modern, responsive restaurant website developed to provide customers with an engaging online experience. The website showcases the restaurant's menu, gallery, reservation system, and contact information while helping the business improve its online presence and attract more customers.
 
-First, run the development server:
+---
+
+## 🚀 Live Demo
+
+🔗 Add your Vercel URL here
+
+---
+
+## 📂 GitHub Repository
+
+(https://github.com/pranithrao24/FUTURE_FS_03)
+
+---
+
+# 📖 Project Overview
+
+Royal Spice is a professional restaurant website designed for a local business. It enables customers to explore the restaurant, browse the menu, reserve tables, and contact the restaurant easily through multiple communication channels.
+
+---
+
+# ✨ Features
+
+- Responsive Design
+- Modern Landing Page
+- Sticky Navigation Bar
+- Interactive Food Menu
+- Menu Search
+- Menu Category Filters
+- Food Details Popup
+- Restaurant Gallery
+- Image Lightbox
+- Table Reservation Form
+- Reservation Confirmation Popup
+- Google Maps Integration
+- Contact Section
+- WhatsApp Contact Button
+- Call Now Button
+- Back To Top Button
+- Custom 404 Page
+- SEO Optimized
+
+---
+
+# 🛠 Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- Vercel
+
+---
+
+# 📁 Folder Structure
+
+```
+app/
+components/
+public/
+images/
+styles/
+```
+
+---
+
+# 📸 Website Sections
+
+- Home
+- About
+- Menu
+- Gallery
+- Reservation
+- Contact
+- Footer
+
+---
+
+# 🎯 Business Benefits
+
+- Builds a professional online presence
+- Increases customer engagement
+- Makes table reservations easier
+- Displays menu digitally
+- Improves customer communication
+- Mobile-friendly experience
+- Easy navigation for visitors
+
+---
+
+# 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone <repository-url>
+```
+
+Go to project folder
+
+```bash
+cd future-fs-03
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# 🏗 Build
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# 🚀 Deployment
 
-## Deploy on Vercel
+The application is deployed using **Vercel**.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# 👨‍💻 Developer
+
+**Pusukuri Pranith Rao**
+
+B.Tech – Computer Science Engineering
+
+Vaagdevi College of Engineering
+
+GitHub:
+https://github.com/pranithrao24
+
+LinkedIn:
+www.linkedin.com/in/pranith-rao-1a4460318
+
+---
+
+# 📄 License
+
+This project is developed for educational and internship purposes.
+
+---
+
+⭐ If you like this project, don't forget to star the repository.
